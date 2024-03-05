@@ -1,0 +1,6 @@
+Rappresentazione tabellare delle date secondo l'ISO-8601 con indicazione dei fusi orari
+
+Esempio	Spiegazione
+2019-09-07 T-15:50+00	15:50 il 07/09/2019 nel fuso orario del tempo universale.
+2019-09-07 T15:50+00Z	e cioè 15:50 il 07/09/2019 nel fuso orario del tempo universale con l'aggiunta della "Z" nella formula
+2019-09-07T15:50+01:00	15:50 il 07/09/2019 nel fuso orario di Roma (CET)

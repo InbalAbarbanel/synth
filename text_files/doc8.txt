@@ -1,0 +1,27 @@
+Pour calculer ton ascendant, tu dois d'abord connaître ta date de naissance et ton heure de naissance.
+
+1. Trouve l’heure sidérale correspondante à ton date de naissance dans le Tableau des heures sidérales. (voir ci-dessous)
+
+2. Additionne-la à ton heure de naissance.
+
+3. Vérifie si tu es né à l'heure d'hiver ou à l'heure d'été dans le Tableau des heures d'été. Si tu es né à l'heure d'été, tu dois enlever 1 heure à ton heure de naissance. (N.B.: En 1942, l'heure est avancée toute l'année à partir du 9 février dans tout le Canada, jusqu'au 30 septembre 1945).
+
+4. Une fois le tout additionné, si ton nombre d'heures dépasse 24 heures, enlève 24 heures à ce nombre. Si ton nombre de minutes dépasse 60, retranche 60 minutes et ajoute 1 heure. Le résultat t'indiquera ton ascendant.
+
+5. Reporte-toi au Tableau des ascendants (voir ci-dessous) pour connaître celui-ci.
+
+Exemple 1 : 
+Tu es né le 13 mars 1966 (heure normale) à 6 h 58 le matin. 
+
+Additionne : 6 h 58 (votre heure de naissance) + 11 h 20 (l’heure sidérale). Le total est : 17 h 78 min.
+
+Si le nombre de minutes dépasse 60, retranche les 60 minutes et ajoute 1 heure : 17 h 18 (17 h 78 - 0 h 60) + 1 heure = 18 h 18 min (ascendant réel).
+
+Tu es donc Poissons ascendant Bélier.
+
+Exemple 2 : 
+Tu es né le 7 septembre 1984 (heure d'été) à 6 h 58 le matin. 
+
+Additionne : 6 h 58 (votre heure de naissance) + 23 h 02 (l’heure sidérale). Le total est : 30 h 00 min. Étant donné que le 7 septembre 1984 correspond à l'heure d'été, enlève 1 heure : 29 h 00 min.
+
+Si le nombre d'heures dépasse 24, retranchez 24 heures du total : 29 h 00 - 24 h = 5 h 00 min (ascendant réel).

@@ -1,0 +1,4 @@
+Formati di data e ora in Comandi Rapidi su iPhone o iPad
+In Comandi Rapidi, i formati di date più semplici e comodi sono Breve, Medio e Lungo:
+
+Corto: mostra unicamente valori numerici nei risultati, come 6/1/17. Medio: mostra un'abbreviazione di lettere del mese e non utilizza barre, come 1º giu 2017. Lungo: mostra il testo completo del nome del mese, come 1º giu 2017. Puoi anche impostare il formato della data su Nessuno per escludere le relative informazioni dai risultati e mostrare unicamente l'orario.

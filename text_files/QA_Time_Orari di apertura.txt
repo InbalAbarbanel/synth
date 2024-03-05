@@ -1,0 +1,23 @@
+MESE	ORARIO DI APERTURA
+Gennaio	1 - 31 gennaio orari di apertura: 08.30-16.30 h
+Febbraio	1 - 15 febbraio orari di apertura: 08.30-16.30 h
+16 - 29 febbraio orari di apertura: 08:30-17:00 h
+Marzo	1 - 15 marzo orari di apertura: 08:30-17:00 h
+16 - 28 marzo orari di apertura: 08:30-17:30 h
+29 - 31 marzo orari di apertura: 08:30-19:15 h
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

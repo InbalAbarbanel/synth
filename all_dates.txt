@@ -1,0 +1,92 @@
+QA_Dates _Date secondo l'ISO-8601.txt:07/09/2019
+QA_Dates _Date secondo l'ISO-8601.txt:07/09/2019
+QA_Dates _Date secondo l'ISO-8601.txt:07/09/2019
+QA_Dates-Sospensione erogazione idrica.txt:05.05.22
+QA_Dates_Concerti.txt:25/07/2023
+QA_Dates_Decreto ministeriale.txt:15/12/1997
+QA_Dates_Decreto ministeriale.txt:23/12/1992
+QA_Dates_Possibili formati date.txt:04.06.1996
+QA_Dates_Possibili formati date.txt:04.06.96
+QA_Dates_Possibili formati date.txt:04/06/96
+QA_Dates_Stagione Sinfonica 1997-1998.txt:08.11.1997
+QA_Dates_Stagione Sinfonica 1997-1998.txt:05.07.1998
+QA_Dates_Stagione Sinfonica 1997-1998.txt:10.11.1998
+QA_Dates_Stagione Sinfonica 1997-1998.txt:08.03.1990
+QA_Dates_Udienze Coni.txt:27/06/2022
+QA_Dates_Udienze Coni.txt:19/11/2022
+QA_Dates_Udienze Coni.txt:21/11/2022
+date11.txt:12/14/16
+date11.txt:01/01/2013
+date13.txt:11.12.1997
+date13.txt:03.09.1990
+date13.txt:16.08.1997
+date13.txt:04.09.1991
+date13.txt:27.03.1990
+date13.txt:08.11.19
+date13.txt:02.03.1999
+date13.txt:15.09.1999
+date13.txt:22.11.1997
+date13.txt:08.10.1997
+date13.txt:04.08.1998
+date13.txt:23.06.1999
+date13.txt:01.02.1990
+date13.txt:23.11.1994
+date13.txt:02.08.1991
+date13.txt:12.08.1998
+date13.txt:06.05.1999
+date13.txt:13.03.1997
+date13.txt:16.10.1998
+date13.txt:09.04.1997
+date13.txt:16.10.1998
+date13.txt:12.01.1996
+date13.txt:27.01.1997
+date13.txt:27.12.1993
+date13.txt:09.05.1995
+date16.txt:05/04/2004
+date16.txt:21/10/1999
+date16.txt:29/10/1999
+date16.txt:10/12/1999
+date16.txt:22/10/2001
+date16.txt:13/10/1998
+date16.txt:10/10/1996
+date16.txt:21/11/2000
+date17.txt:05/06/2019
+date18.txt:03/07/2017
+date18.txt:04.06.1992
+date18.txt:11.07.1992
+date18.txt:75/20.10
+date18.txt:73/30.11
+date4.txt:14/02/2023
+date7.txt:13/02/2023
+date8.txt:13/02/2023
+date8.txt:02/13/2023
+jour date-date.txt:01/01/2018
+jour date-date.txt:31/12/2017
+jour date-date.txt:29/12/17
+jour date-date.txt:27/12/17
+jour date-date.txt:25/12/17
+time29.txt:18/11/2022
+time29.txt:20/01/2023
+time29.txt:03/02/2023
+time29.txt:31/03/2023
+time29.txt:07/04/2023
+time33.txt:31/01/2023
+xx-xx-xxxx.txt:06/07/2017
+xx-xx-xxxx.txt:19/07/2022
+xx-xx-xxxx.txt:31/07/2020
+xx-xx-xxxx.txt:31/07/2020
+xx-xx-xxxx.txt:25/06/2019
+xx-xx-xxxx.txt:17/06/2022
+xx-xx-xxxx.txt:19/06/2022
+xx-xx-xxxx.txt:15/08/2021
+xx-xx-xxxx.txt:14/08/2021
+xx-xx-xxxx.txt:29/05/2017
+xx-xx-xxxx.txt:16/06/2022
+xx-xx-xxxx.txt:14/06/2022
+xx-xx-xxxx.txt:17/06/2021
+xx-xx-xxxx.txt:17/06/2021
+xx-xx-xxxx.txt:23/07/2020
+xx-xx-xxxx.txt:07/07/2022
+xx-xx-xxxx.txt:09/07/2022
+xx-xx-xxxx.txt:16/07/2021
+xx-xx-xxxx.txt:16/07/2021

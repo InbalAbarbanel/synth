@@ -1,0 +1,12 @@
+Evway aumenta le tariffe per la ricarica
+
+L'aumento dei costi dell'energia sta portando anche i gestori delle reti di ricarica delle auto elettriche a rivedere le tariffe applicate ai clienti. Nel corso degli ultimi mesi abbiamo visto alcuni esempi in tal senso, come gli aumenti applicati da Enel X. A questo elenco si aggiunge, adesso, anche Evway che attraverso un'email inviata ai suoi utenti ha annunciato un imminente adeguamento al rialzo dei costi per la ricarica.
+
+Le nuove tariffe saranno introdotte nel mese di maggio. Evway spiega che a causa delle mutate condizioni degli accordi di interoperabilità sono costretti a rivedere le tariffe per poter "continuare a portare avanti una realtà sana, in grado di crescere, di investire nello sviluppo e nell'implementazione dei propri servizi e di migliorare l'esperienza di ricarica e di viaggio in Italia e in Europa degli utenti".
+
+ Gli adeguamenti tariffari sulla nostra App saranno relativi alle stazioni dei principali operatori italiani, mentre abbiamo scelto di non applicare aumenti sulle nostre stazioni - punti di ricarica Route220 -, mantenendo quindi invariata la tariffa a consumo sul nostro network di ricarica proprietario. Per questo ti consigliamo di visionare sempre sull'App la tariffa del punto di ricarica sul quale stai avviando la sessione.
+Evway ricorda di essere stata la prima ad applicare una tariffa legata al tempo di occupazione della stazione di ricarica dopo le prime quattro ore di utilizzo. Con le nuove tariffe la componente tempo passerà da una tariffazione oraria a una tariffazione al minuto con il seguente schema:
+
+AC - dopo le prime 4 ore 0,05 euro/min. La tariffa non verrà addebitata dalle 24:00 alle 08.00 del mattino
+DC fino a 149 kW - dopo le prime due ore 0,10 euro/min
+Hyper Fast - dopo la prima ora 0,15 euro/min (stazioni del network Ionity incluse)
