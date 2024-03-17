@@ -8,10 +8,10 @@ di cui:
 Positivi all'antigenico: 122
 Positivi al molecolare:  10
 
-Test: 2.889
+Test: 2.8189
 di cui:
 Antigenici: 2.328
-Molecolari:   561
+Molecolari:   51
 
 Deceduti: 1 (*)
 (*) nelle ultime 48 ore; 3 deceduti in precedenza ma registrati ieri
